@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 import java.util.Scanner;
 public class preg02 {
     public static void main(String[] args) {
@@ -11,6 +10,5 @@ public class preg02 {
             String digito = String.valueOf(Integer.toString(numero).charAt(i));
             System.out.println(digito);
         }
-
     }
 }
